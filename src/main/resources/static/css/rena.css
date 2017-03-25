@@ -1,0 +1,25 @@
+body {
+    background: #000000;
+    font-family: Arial, Sans-Serif, Sans;
+    color: #ffffff;
+    font-size: 14pt;
+}
+
+h2 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+li {
+    font-size: 12pt;
+}
+
+table {
+    cell-spacing: 50px;
+    border: 0px;
+}
+
+.contact {
+    font-size: 9pt;
+}
+
